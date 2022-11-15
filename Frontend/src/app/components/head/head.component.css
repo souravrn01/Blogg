@@ -1,0 +1,34 @@
+img {
+    display: inline;
+    border: 5px solid rgba(230, 65, 65, 0.53);
+}
+
+h3{
+    display: inline;
+    margin: auto 10px;
+    color:rgb(61, 22, 27);
+    letter-spacing: 20px;
+    font-weight: 400;
+}
+
+button{
+    display: block;
+    
+}
+
+.container{
+    background-color: bisque;
+    padding:50px;
+}
+
+.flow{
+    margin-top: 30px;
+    background-color: rgb(228, 23, 67);
+    color: azure;
+    padding:10px;
+    border-radius: 200px;
+    display: block;
+    width: 150px;
+    text-align: center;
+
+}

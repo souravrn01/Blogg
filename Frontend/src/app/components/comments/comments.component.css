@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(246, 165, 85);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.comment{
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+
+}
